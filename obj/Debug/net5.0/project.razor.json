@@ -15624,6 +15624,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\UniversityLHD214s\\Details.cshtml",
+      "TargetPath": "Views\\UniversityLHD214s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\UniversityLHD214s\\Edit.cshtml",
+      "TargetPath": "Views\\UniversityLHD214s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15649,8 +15659,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\UniversityLHD214s\\Create.cshtml",
+      "TargetPath": "Views\\UniversityLHD214s\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\UniversityLHD214s\\Delete.cshtml",
+      "TargetPath": "Views\\UniversityLHD214s\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\UniversityLHD214s\\Index.cshtml",
+      "TargetPath": "Views\\UniversityLHD214s\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
