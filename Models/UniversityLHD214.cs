@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace LeHaiDang214.Models
 {
     [Table("UniversityLHD214s")]
-    public class UniversityLHD214
+    public class UniversityLHD214 : StringProcessLHD214
     {
         [Key]
         [DataType("varchar")]
