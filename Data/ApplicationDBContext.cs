@@ -13,4 +13,6 @@ using LeHaiDang214.Models;
         }
 
         public DbSet<LeHaiDang214.Models.UniversityLHD214> UniversityLHD214 { get; set; }
+
+        public DbSet<LeHaiDang214.Models.LHD0214> LHD0214 { get; set; }
     }

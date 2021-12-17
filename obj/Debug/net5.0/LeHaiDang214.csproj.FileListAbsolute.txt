@@ -168,3 +168,8 @@ C:\Users\H-SKY\Net Core MVC\LeHaiDang214\obj\Debug\net5.0\Razor\Views\University
 C:\Users\H-SKY\Net Core MVC\LeHaiDang214\obj\Debug\net5.0\Razor\Views\UniversityLHD214s\Details.cshtml.g.cs
 C:\Users\H-SKY\Net Core MVC\LeHaiDang214\obj\Debug\net5.0\Razor\Views\UniversityLHD214s\Edit.cshtml.g.cs
 C:\Users\H-SKY\Net Core MVC\LeHaiDang214\obj\Debug\net5.0\Razor\Views\UniversityLHD214s\Index.cshtml.g.cs
+C:\Users\H-SKY\Net Core MVC\LeHaiDang214\obj\Debug\net5.0\Razor\Views\LHD0214s\Create.cshtml.g.cs
+C:\Users\H-SKY\Net Core MVC\LeHaiDang214\obj\Debug\net5.0\Razor\Views\LHD0214s\Delete.cshtml.g.cs
+C:\Users\H-SKY\Net Core MVC\LeHaiDang214\obj\Debug\net5.0\Razor\Views\LHD0214s\Details.cshtml.g.cs
+C:\Users\H-SKY\Net Core MVC\LeHaiDang214\obj\Debug\net5.0\Razor\Views\LHD0214s\Edit.cshtml.g.cs
+C:\Users\H-SKY\Net Core MVC\LeHaiDang214\obj\Debug\net5.0\Razor\Views\LHD0214s\Index.cshtml.g.cs

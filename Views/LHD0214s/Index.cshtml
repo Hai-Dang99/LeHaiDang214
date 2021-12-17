@@ -1,0 +1,41 @@
+@model IEnumerable<LeHaiDang214.Models.LHD0214>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Thêm</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LHDName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LHDGender)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LHDName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LHDGender)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.LHDID">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.LHDID">Chi Tiết</a> |
+                <a asp-action="Delete" asp-route-id="@item.LHDID">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

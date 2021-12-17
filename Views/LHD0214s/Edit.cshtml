@@ -1,4 +1,4 @@
-@model LeHaiDang214.Models.UniversityLHD214
+@model LeHaiDang214.Models.LHD0214
 
 @{
     ViewData["Title"] = "Edit";
@@ -6,17 +6,22 @@
 
 <h1>Sửa</h1>
 
-<h4>UniversityLHD214</h4>
+<h4>LHD0214</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="UniversityId" />
+            <input type="hidden" asp-for="LHDID" />
             <div class="form-group">
-                <label asp-for="UniversityName" class="control-label"></label>
-                <input asp-for="UniversityName" class="form-control" />
-                <span asp-validation-for="UniversityName" class="text-danger"></span>
+                <label asp-for="LHDName" class="control-label"></label>
+                <input asp-for="LHDName" class="form-control" />
+                <span asp-validation-for="LHDName" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="LHDGender" /> @Html.DisplayNameFor(model => model.LHDGender)
+                </label>
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />

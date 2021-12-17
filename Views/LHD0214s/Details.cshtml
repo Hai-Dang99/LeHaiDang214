@@ -1,0 +1,30 @@
+@model LeHaiDang214.Models.LHD0214
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Chi Tiết</h1>
+
+<div>
+    <h4>LHD0214</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LHDName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LHDName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LHDGender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LHDGender)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.LHDID">Edit</a> |
+    <a asp-action="Index">Trở lại</a>
+</div>

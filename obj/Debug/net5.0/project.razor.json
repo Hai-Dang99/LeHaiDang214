@@ -15619,8 +15619,18 @@
   "RootNamespace": "LeHaiDang214",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\LHD0214s\\Index.cshtml",
+      "TargetPath": "Views\\LHD0214s\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\LHD0214s\\Details.cshtml",
+      "TargetPath": "Views\\LHD0214s\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15636,6 +15646,11 @@
     {
       "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\LHD0214s\\Create.cshtml",
+      "TargetPath": "Views\\LHD0214s\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15656,6 +15671,16 @@
     {
       "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\LHD0214s\\Edit.cshtml",
+      "TargetPath": "Views\\LHD0214s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\H-SKY\\Net Core MVC\\LeHaiDang214\\Views\\LHD0214s\\Delete.cshtml",
+      "TargetPath": "Views\\LHD0214s\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
